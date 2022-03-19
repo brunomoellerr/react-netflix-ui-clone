@@ -1,3 +1,7 @@
+## Netflix UI Clone
+
+It needs to configure your API through [TMDB API](https://developers.themoviedb.org/3) and add the API Key to tmdb.js file in order to run it properly
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
